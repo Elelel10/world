@@ -1,6 +1,5 @@
-# firstgit
-깃허브 사용법을 연습합니다.
+<https://cafe.naver.com/hicode>
 
-안녕하세요
+[Hello코딩놀이터](https://cafe.naver.com/hicode)
 
-반가워요
+[구글](https://google.com, "검색 사이트")
