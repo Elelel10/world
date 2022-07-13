@@ -9,7 +9,7 @@ public class test1 {
 
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
-		System.out.println("*****학점 확인****");
+		System.out.println("***학점 확인***");
 		for(;;) {
 		System.out.println("점수 입력=> ");
 		int score=sc.nextInt();
