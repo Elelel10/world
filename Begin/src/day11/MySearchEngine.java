@@ -7,6 +7,7 @@ public class MySearchEngine extends JFrame{
 	JPanel p=new JPanel();
 	JButton b1,b2,b3,b4;
 	JTextArea ta;
+	
 	public MySearchEngine() {
 	super("::MySearchEngine::");
 	add(p,"Center");
